@@ -1,0 +1,10 @@
+{
+  "name": "backend-template",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Carlos Sandro <sandro.dl17@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
